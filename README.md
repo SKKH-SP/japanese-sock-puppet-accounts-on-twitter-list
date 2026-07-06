@@ -41,4 +41,4 @@ This list does not definitively identify specific accounts as engaging in automa
 This list is licensed under the MIT License.
 
 ## keywords
-Coordinated Inauthentic Behavior (CIB), Astroturfing, Sybil Attack, Spam Farm, Account Farm, Troll farm, Copy-paste spam, Copypasta campaign, Copypasta network
+Coordinated Inauthentic Behavior (CIB), Astroturfing, Sybil Attack, Spam Farm, Account Farm, Troll farm, Copy-paste spam, Copypasta campaign, Copypasta network, Social Bot
